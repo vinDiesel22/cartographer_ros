@@ -4,12 +4,6 @@ State estimation and Slam Repo
 
 ### Installing
 
-Cloning including the submodules
-
-```
-git clone -b adding_submodules --recursive git@gitlab.tufast.de:db019/AutonomousSoftware/db019_state_estimation.git
-```
-
 Running the cartographer installation script
 
 ```
