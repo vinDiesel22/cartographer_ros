@@ -1,32 +1,4 @@
-# State Estimation
-
-State estimation and Slam Repo
-
-### Installing
-
-Running the cartographer installation script
-
-```
-db019_state_estimation/install_cartographer.sh
-
-```
-
-catkin_make_isolated is used as Cartographer and ceres_solver are not catkin packages.
-
-
-```
-catkin_make_isolated --install --use-ninja
-
-```
-
-The workspace space has to be sourced using:
-
-```
-source install_isolated/setup.bash
-
-```
-
-
+# LiDAR SLAM
 
 ## Getting Started
 
